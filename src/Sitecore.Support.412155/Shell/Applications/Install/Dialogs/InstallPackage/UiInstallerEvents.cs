@@ -13,7 +13,7 @@ using Sitecore.Install.Utils;
 
 namespace Sitecore.Shell.Applications.Install.Dialogs.InstallPackage
 {
-    /// <summary> </summary>
+    /// <summary></summary>
     internal class UiInstallerEvents : IItemInstallerEvents, IFileInstallerEvents, IAccountInstallerEvents
     {
         #region IItemInstallerEvents Members
